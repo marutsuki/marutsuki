@@ -23,12 +23,3 @@
 🖍️ Digital artist outside of work
 
 🎸 Periodically an aspiring musician
-
-## Other stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marutsuki&show_icons=true&theme=react&hide=contribs,issues" alt="GitHub stats"/>
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marutsuki&layout=donut&theme=react&hide=c%23,ASP.NET,ShaderLab" alt="Top languages"/>
-</div>
