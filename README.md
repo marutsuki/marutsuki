@@ -11,9 +11,6 @@
   <a href="https://marutsuki.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/>
   </a>
-  <a href="mailto:lucien.7789@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
 </div>
 
 
