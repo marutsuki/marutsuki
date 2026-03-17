@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/lucienlu7789/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="https://marutsuki.io/">
+  <a href="https://marutsuki.com/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website"/>
   </a>
 </div>
